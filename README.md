@@ -1,10 +1,10 @@
 # Install
 
 ```bash
-> pip instal doujin2pdf
+> pip install doujin2pdf
 ```
 # Shell
-```
+```bash
 > python -m doujin --nuklir=123456
 > python -m doujin --nuklir=123456 --output=test.pdf
 ```
