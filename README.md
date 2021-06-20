@@ -11,7 +11,6 @@
 
 # Python Interpreter
 ## Save To File
-```
 ```python
 >>> import doujin
 >>> x=doujin.nhentai("123456").doujin
