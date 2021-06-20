@@ -15,7 +15,7 @@
 ```python
 >>> import doujin
 >>> x=doujin.nhentai("123456").doujin
->>> x.save_t_file(x.title)
+>>> x.save_to_file(x.title)
 ```
  ## BytesIO
  ```python
